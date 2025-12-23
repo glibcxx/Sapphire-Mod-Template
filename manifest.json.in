@@ -1,0 +1,13 @@
+{
+    "format_version": 1,
+    "id": "my_mod",
+    "name": "My Mod",
+    "version": "@MOD_VERSION@",
+    "author": "my name",
+    "description": "A template mod.",
+    "dependencies": {
+        "Sapphire:core": ">=0.2.0",
+        "minecraft": ">=1.21.2 <=1.21.60"
+    },
+    "main_dll": "@MANIFEST_MAIN_DLL@"
+}

@@ -1,0 +1,7 @@
+{
+    "cmake.configureArgs": [
+        // "-DCMAKE_PREFIX_PATH=${workspaceFolder}/../Sapphire/bin", // 如果手动安装了Sapphire SDK，设置这个
+    ],
+    "cmake.installPrefix": "${workspaceFolder}/bin",
+    "cmake.generator": "Ninja"
+}
