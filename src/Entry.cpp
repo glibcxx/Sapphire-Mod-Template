@@ -1,8 +1,6 @@
-#include "MyMod.h"
+#include "Entry.h"
 #include "SDK/api/sapphire/IMod.h"
 #include "SDK/api/sapphire/logger/Logger.h"
-#include <glm/glm.hpp>
-#include <concurrentqueue.h>
 
 namespace my_mod {
 
