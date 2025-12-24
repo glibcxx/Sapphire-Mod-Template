@@ -5,7 +5,7 @@ include(FetchContent)
 FetchContent_Declare(
     sapphire
     GIT_REPOSITORY https://github.com/glibcxx/Sapphire.git
-    GIT_TAG v0.2.0
+    GIT_TAG v0.2.2
 )
 
 find_package(sapphire QUIET)
